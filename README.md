@@ -1,10 +1,10 @@
 # The Reactor-RabbitMQ open-source project is no longer being maintained. Open-source support for this project ended on 2023-06-30.
 
-[![Join the chat at https://gitter.im/reactor/reactor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reactor/reactor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Reactor RabbitMQ](https://maven-badges.herokuapp.com/maven-central/io.projectreactor.rabbitmq/reactor-rabbitmq/badge.svg?style=plastic)](https://mvnrepository.com/artifact/io.projectreactor.rabbitmq/reactor-rabbitmq)
+## Alternative Option
 
-[![Build Status](https://github.com/reactor/reactor-rabbitmq/workflows/Build%20(Linux)/badge.svg?branch=master)](https://github.com/reactor/reactor-rabbitmq/actions?query=workflow%3A%22Build+%28Linux%29%22+branch%3Amaster) (master)
-[![Build Status](https://github.com/reactor/reactor-rabbitmq/workflows/Build%20(Linux)/badge.svg?branch=1.4.x)](https://github.com/reactor/reactor-rabbitmq/actions?query=workflow%3A%22Build+%28Linux%29%22+branch%3A1.4.x) (1.4.x)
+Are you looking for an alternative project for Reactor RabbitMQ? Take a look at the open-source project [Atleon](https://atleon.io/atleon).
+
+---
 
 Reactor RabbitMQ is a reactive API for [RabbitMQ](https://www.rabbitmq.com/) based on
 [Reactor](https://projectreactor.io/)
